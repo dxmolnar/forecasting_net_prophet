@@ -1,3 +1,6 @@
+![image](https://github.com/dxmolnar/forecasting_net_prophet/assets/127795314/9b85c558-8bc9-4307-ab4a-bcd9dc7b837e)
+
+
 # forecasting_net_prophet
 A time series model using prophet
 
